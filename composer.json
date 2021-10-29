@@ -1,0 +1,12 @@
+{
+	"name": "turquoise-dragonfly/ps-recurring-payments",
+	"description": "Prestashop utilities for recurring payment modules",
+	"require": {
+			"php": ">=7.1"
+	},
+  "autoload": {
+    "psr-4": {
+      "turquoisedragonfly\\prestashop\\": "src/"
+    }
+  }
+}
