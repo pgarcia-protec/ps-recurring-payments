@@ -1,6 +1,7 @@
 {
 	"name": "turquoise-dragonfly/ps-recurring-payments",
 	"description": "Prestashop utilities for recurring payment modules",
+	"version": "1.0.0",
 	"require": {
 			"php": ">=7.1"
 	},
